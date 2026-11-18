@@ -5,7 +5,7 @@ Measures how the error of differentially private COUNT, SUM, AVG and GROUP BY
 queries changes with the privacy budget epsilon, clamping bounds and dataset size.
 
 ## Requirements
-Python 3.10+ and: `pip install pandas numpy matplotlib`
+Python 3.10+ and: `pip install pandas numpy matplotlib opendp`
 
 ## Run
 ```bash
